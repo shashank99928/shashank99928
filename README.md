@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @shashank99928
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Shashank Tripathi
+- 👀 I’m interested in Web 
+- 🌱 I’m currently learning ReactJS
+- 💞️ I’m looking to collaborate on React Projectd.
+- 📫 Reach me shashank99928@gmail.com 
 
 <!---
 shashank99928/shashank99928 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
