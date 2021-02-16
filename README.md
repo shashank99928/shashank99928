@@ -2,7 +2,8 @@
 - 👀 I’m interested in Web 
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on React Projectd.
-- 📫 Reach me shashank99928@gmail.com 
+- 📫 Reach me shashank99928@gmail.com / www.shashank99928.github.io/shashank/
+
 
 <!---
 shashank99928/shashank99928 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
