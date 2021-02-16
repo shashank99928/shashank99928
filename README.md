@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shashank Tripathi
+- 👋 Hi, I’m Shashank
 - 👀 I’m interested in Web 
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on React Projectd.
