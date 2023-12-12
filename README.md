@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shashank
 - 👀 I’m interested in Web 
-- 🌱 I’m currently looking for new opportunity
 - 💞️ I’m looking to collaborate on React Project.
 - 📫 Reach me shashank99928@gmail.com / https://shsxnk.com
 
